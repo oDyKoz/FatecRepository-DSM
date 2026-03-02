@@ -16,6 +16,9 @@ int main() {
 
     printf("Soma: \n", soma);
 
+    //Operação de resto de divisão
+
+    printf("Resto de divisão: %d\n", idade % fator);
 
     return 0;
 }
