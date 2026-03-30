@@ -33,6 +33,11 @@ int main(int argc, char** argv) {
 	} else {
 		printf("Numero impar");
 	}
+
+	int tabuada;
+	float(tabuada = 0; tabuada <= 11; tabuada++) {
+		printf("%d X %d = %d\n", tabuada, numero, numero * tabuada);
+	}
 	
 	return 0;
 }
