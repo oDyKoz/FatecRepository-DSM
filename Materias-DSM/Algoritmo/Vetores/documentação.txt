@@ -1,0 +1,12 @@
+## Vetores 
+
+-> Vetores são dados estaticas, algo que não se muda e nem troca.
+-> A estacidade do vetor apenas muda nos valores que ele possui.
+
+#Estrutura
+
+-> A estrutura de Vetores em cada linguagem de programação possui caracteristicas diferente.
+-> linguagens dinamicas como Python e PHP, possui caracteristicas diferente de vetores, geralmente
+chamados de List ou Listagem.
+-> A estrutura de Vetores pode ser atribuido para estrutura de repetição, ganhando mais eficiencia
+na busca e leitura de valores.
